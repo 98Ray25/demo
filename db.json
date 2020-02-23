@@ -1,13 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Deportes": [
+    { "id": 1, "Elemento": "Basketball" },
+    { "id": 2, "Elemento": "Baseball" },
+    { "id": 3, "Elemento": "Soccer" },
+    { "id": 4, "Elemento": "Tennis" },
+    { "id": 5, "Elemento": "Football" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  
+  "Peliculas": [
+    { "id": 1, "Elemento": "Avengers" },
+    { "id": 2, "Elemento": "Avatar" },
+    { "id": 3, "Elemento": "Cars" },
+    { "id": 4, "Elemento": "Matrix" },
+    { "id": 5, "Elemento": "El Rey León" }
   ],
+  
+  "Animales": [
+    { "id": 1, "Elemento": "León" },
+    { "id": 2, "Elemento": "Perro" },
+    { "id": 3, "Elemento": "Gato" },
+    { "id": 4, "Elemento": "Tigre" },
+    { "id": 5, "Elemento": "Toro" }
+  ],
+  
+  "Personas Famosas": [
+    { "id": 1, "Elemento": "Barack Obama" },
+    { "id": 2, "Elemento": "Michael Jackson" },
+    { "id": 3, "Elemento": "Will Smith" },
+    { "id": 4, "Elemento": "Scarlett Johansson" },
+    { "id": 5, "Elemento": "Beyoncé" }
+  ],
+  
+  "Super Heroes": [
+    { "id": 1, "Elemento": "Spiderman" },
+    { "id": 2, "Elemento": "Superman" },
+    { "id": 3, "Elemento": "Batman" },
+    { "id": 4, "Elemento": "Mujer Maravilla" },
+    { "id": 5, "Elemento": "Hulk" }
+  ],
+  
+  "Paises": [
+    { "id": 1, "Elemento": "República Dominicana" },
+    { "id": 2, "Elemento": "Francia" },
+    { "id": 3, "Elemento": "Alemania" },
+    { "id": 4, "Elemento": "Colombia" },
+    { "id": 5, "Elemento": "Canadá" }
+  ],
+  
   "profile": {
     "name": "typicode"
   }
